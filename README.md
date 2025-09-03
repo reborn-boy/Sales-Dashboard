@@ -38,7 +38,7 @@ It helps analyze business performance across key metrics such as **Sales, Profit
 
 ## 📷 Dashboard Preview  
 
-![Dashboard Preview](dashboard_screenshot.png)  
+![Dashboard Preview](Dashboard Image.png)  
 
 ---
 
