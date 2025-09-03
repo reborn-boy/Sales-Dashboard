@@ -36,12 +36,6 @@ It helps analyze business performance across key metrics such as **Sales, Profit
 
 ---
 
-## 📷 Dashboard Preview  
-
-![Dashboard Preview](Dashboard Image.png)  
-
----
-
 ## 🔮 Insights from Dashboard  
 
 - Identified **top-performing regions & categories**  
